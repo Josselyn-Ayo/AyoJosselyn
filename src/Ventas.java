@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+//jOSSELYN aYO
 
 public class Ventas extends JFrame {
     private JPanel PanelVenta;
